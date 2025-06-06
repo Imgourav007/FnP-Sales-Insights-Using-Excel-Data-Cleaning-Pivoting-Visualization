@@ -1,27 +1,22 @@
- FNP (Ferns N Petals) Sales Analysis Dashboard:
+# FNP (Ferns N Petals) Sales Analysis Dashboard
 
-This project presents a comprehensive analysis of the sales dataset from Ferns N Petals (FNP), a company specializing in online gifting services for occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
+## Problem Statement
+Ferns N Petals (FNP), a leading online gifting company catering to occasions like Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries, sought to better understand its sales dynamics. The company aimed to extract actionable insights from its sales data to refine sales strategies and boost customer satisfaction.
 
-The analysis was conducted using Microsoft Excel and focuses on extracting meaningful business insights to help the company improve its sales strategy and enhance customer satisfaction.
+## Task
+Develop an interactive Excel dashboard to analyze FNP’s sales dataset and address key business questions such as revenue trends, product performance, customer spending patterns, and geographic sales distribution. The dashboard should provide clear visualizations and KPIs to support data-driven decision-making.
 
-The interactive Excel dashboard includes visualizations and KPIs addressing the following key business questions:
+## Tools Used
+* Microsoft Excel (Pivot Tables, Charts, Formulas, Data Analysis Toolpak)
 
-1. Total Revenue - Calculated the overall revenue generated from all orders.
-
-2. Average Order and Delivery Time - Measured the average time taken from order placement to delivery.
-
-3. Monthly Sales Performance - Tracked and visualized monthly revenue to identify seasonal sales patterns.
-
-4. Top Products by Revenue - Identified the highest revenue-generating products.
-
-5. Customer Spending Analysis - Analyzed how much customers spent on average per order.
-
-6. Sales Performance of Top 5 Products - Compared the monthly sales trend of the top 5 best-performing products.
-
-7. Top 10 Cities by Number of Orders - Ranked cities based on order volume to determine major customer hubs.
-
-8. Order Quantity vs. Delivery Time - Investigated the relationship between order size and delivery duration.
-
-9. Revenue Comparison Between Occasions - Compared how different occasions contribute to overall revenue.
-
-10. Product Popularity by Occasion - Highlighted which products are most frequently purchased during specific festivals or events.
+## Results
+* Calculated total revenue generated from all orders to measure overall business performance.
+* Measured average order processing and delivery times to identify operational efficiency.
+* Visualized monthly sales performance to detect seasonal trends and peak sales periods.
+* Identified top revenue-generating products to focus marketing and inventory strategies.
+* Analyzed average customer spending per order for better targeting and promotions.
+* Compared monthly sales trends of the top 5 products to track product performance over time.
+* Ranked top 10 cities by order volume to pinpoint major customer hubs and regional demand.
+* Explored the relationship between order quantity and delivery time to optimize logistics.
+* Compared revenue contributions across different occasions to prioritize high-impact events.
+* Highlighted product popularity by occasion to tailor product offerings for specific festivals and celebrations.
