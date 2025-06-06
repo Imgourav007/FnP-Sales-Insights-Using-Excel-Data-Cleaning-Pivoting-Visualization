@@ -1,6 +1,6 @@
 # FNP (Ferns N Petals) Sales Analysis Dashboard
 
-1[image](https://github.com/Imgourav007/Sales_Insights-Excel_Dashboard/blob/a3ef3ba7afd868bb56d899b6df622e429aedcb85/Screenshot%20FnP%20Dashboard.png)
+![image](https://github.com/Imgourav007/Sales_Insights-Excel_Dashboard/blob/a3ef3ba7afd868bb56d899b6df622e429aedcb85/Screenshot%20FnP%20Dashboard.png)
 
 ## Problem Statement
 Ferns N Petals (FNP), a leading online gifting company catering to occasions like Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries, sought to better understand its sales dynamics. The company aimed to extract actionable insights from its sales data to refine sales strategies and boost customer satisfaction.
